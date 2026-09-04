@@ -1,0 +1,58 @@
+============================
+SYMMETRIC ENCRYPTION (Fernet)
+============================
+Key: wTLqXVbfRErgPhuSee-MspiIC-T-TVilSZzQORMojVo=
+Input: hello from around the world. I love bread and apple's!
+Ciphertext: gAAAAABqmv2y0l8S32Aq9m9pmxvi0kxSL9hY0DirwrU4G-I-KWVBRI_DFBOuIgnDybQDFX0NKkWXhfjHynXWjTibYzK3QMR5fLZQGFoWZapB7-_7TlevTtlAWHYoJ4U_7U0j3QwtlZpsTcbDdK-W6IlllGjNZG_Kjw==
+Output: hello from around the world. I love bread and apple's!
+Encryption Time: 0.003109 seconds
+
+===========================
+ASYMMETRIC ENCRYPTION (RSA)
+===========================
+Private Key:
+-----BEGIN RSA PRIVATE KEY-----
+MIIEoQIBAAKCAQEAw4JKWuCFzPYubgL3X5cp4gXRUSnN+2xiFl199YF99W1eFG6Z
+KtmBE3XACh08QHyBAgKHS5acZJvuyvnsBmIZIeiVxqgEkTTO7v7gPQkmvVNlJ6uy
+3mxKLcWgFsKnQzRHSMTMAorLdKNz2/ZIOuKJpcu7A8jRserCthmqe1OzmJhzXN7Z
+ALWI1Lpu+r8q532yxfKKmrErD4pmTDE/xYKn5+o5JbMAnyuIeaE+aEecrbn9cVkV
+f0zL4CMcbRkbXpWeT5+k2UrR3pf3XujaMlGHPID2PAgfYJDlkFRwsqTYAmb6HF3P
+/PvXeO96qi7lP+247+M6ZJlpCvVyXmYscHSR/wIDAQABAoH/eecYroA/PPOYZgWV
+mWsqfxNl0PcSeECCggNi/e/Fjqh7AL+OzLzdJO/DwqFySx4up6vEHHQ4e6rKDFli
+WflCc9xqD7J6y4bSNmuvwMVPAayGk5DFUbFyVj+1oxq2Ncqs94UHmLuzakryJfYa
+f4Bl7NLzReunUXtk28td8xX+9pdazxYe0WTLyiZzeGauaSZSCiwCVZYSO2buSB7r
+GZO0DXBwthjtzq8KrhRl8CyYeOwN0kfzy3rN3uWGCf7/t5HXkg67+hx075xMPSBO
+XC0Lf3BEFy1aE8JrPPA+RgooX48mLs14g0OBkg0Fa5+OPEQhcZwzd5NCiQ87urA6
+/S6pAoGBAPTnUoMgy4jvY3H2tzFYZ1LbDeufbLAvIdyr0T+NTwf7BmWJ8vYZBF19
+Rij4bL982sQaapT0FTgNe4FfecKXc+6GX3e1/ZPYSxUF/2kitXX5sauDZJ+m4fj8
+129lZd8G7JpbokHM7P4/HezoqbYZTQj+6FbGBjp0kikl8uzW1cEbAoGBAMxeCAL8
+0CNrbmjdPidNI9By9biUIjiqFTNHlcfyaKbBrgpAio15ewVNK4650OJa87FAOfU2
+oNvSxzouSlIlRVIUCox0TyX2p0iW/k7Z4Dz6wUWz77MsVf3Ua8SESIJshJWgTnu4
+Myu2aaRF2blyHQRx6ZpvJBFK2p9O9RznyyTtAoGBALvdKvV91cQgZreIWzTWLMRp
+Vz9VF0n7jc06XBSVMHfdvyVq8d6IiEmzDHvnPXySqTpfTT0gE5rg9MnkVIHKLltd
+5qPtDi04cTgaVrfusSZjuT/pVeoGWTfntNc2ADRamms6ObiiG3ZZMnqGa5FNzUNG
+TzIpS6PRwkEgZD37+xLbAoGAZpzIFQfvUfl9JHYB4SXgV6eBLT5juGPd5TOKRyy1
+0xToWAl0B/j5Bf5rYmx2L1FPjq4a676UIgvBMLtRYdGI7t9VNJSpsPwZnl8CLYFE
+EBovtNnV/vbB7oMb4T4yUho+sAofngss1kPu4yaXXX+ohjTUAFDRoUUeZGL2u56+
+5zkCgYAoqrCDOrYvAS9KfFvLbHh79dvFpSacshgbdD6DBudntff2jTN1PT4p6i/N
+04H/kjpwUCP2s52z1VoVEhWQc1IwmyQpZCZjHDtuZmi5vpJM2ZVIubMC7y8gnulZ
+1riiE7Z/2jYP6VzyidugMkqFUbIIz70ATg3wURxLUaWpI3DX7Q==
+-----END RSA PRIVATE KEY-----
+
+
+Public Key:
+-----BEGIN PUBLIC KEY-----
+MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAw4JKWuCFzPYubgL3X5cp
+4gXRUSnN+2xiFl199YF99W1eFG6ZKtmBE3XACh08QHyBAgKHS5acZJvuyvnsBmIZ
+IeiVxqgEkTTO7v7gPQkmvVNlJ6uy3mxKLcWgFsKnQzRHSMTMAorLdKNz2/ZIOuKJ
+pcu7A8jRserCthmqe1OzmJhzXN7ZALWI1Lpu+r8q532yxfKKmrErD4pmTDE/xYKn
+5+o5JbMAnyuIeaE+aEecrbn9cVkVf0zL4CMcbRkbXpWeT5+k2UrR3pf3XujaMlGH
+PID2PAgfYJDlkFRwsqTYAmb6HF3P/PvXeO96qi7lP+247+M6ZJlpCvVyXmYscHSR
+/wIDAQAB
+-----END PUBLIC KEY-----
+
+
+Input: hello from around the world. I love bread and apple's!
+Ciphertext: 1f3af094e19af4ccaa7fcca8385e8b4302cb2be8c312ecb3c27ef8946a86860c0455b2d5ab310e320b3a4102d1a6e5e02a742865ff0192a65a91a3774e98501ff0bf519907a4fb603f83d5e27dd5758c7bcb1499c552abfec2b502f888a27659bf3c272c76a007782f5836ead4432f17eef3cb2741c89d8f47f9ec2e5b630072bba86809db741e9dfb71bc3fd6775fa2b4b6ba3c84e7f51170a878bf305ba7430047fa32f6bf49a15ee36c63bea7cea0f9c0d2da165807fc6121f38b3ff3ab4b8577c221d1c8cd3864d3156cda0380855615893e57dc7f50c5244831400f82c03701e13ac826959beaf239a96ff3a97cf514ff34b0ab75f542ef60b68c021e32
+Output: hello from around the world. I love bread and apple's!
+Encryption Time: 0.000808 seconds
