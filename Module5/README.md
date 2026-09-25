@@ -22,7 +22,18 @@ if (req.user.id !== req.params.userId) {
 
 ### 2. Account access
 
-The Flask account example from the assignment does not currently have a matching implementation file in this folder.
+I added a login requirement and check that only lets users view their own account. Other users receive a 403 response.
+
+```python
+@app.route('/account/<user_id>')
+@login_required
+def get_account(user_id):
+	if str(current_user.id) != user_id:
+		return jsonify({"error": "Access denied"}), 403
+
+	user = db.query(User).filter_by(id=user_id).first()
+	return jsonify(user.to_dict())
+```
 
 ## Cryptographic Failures
 
