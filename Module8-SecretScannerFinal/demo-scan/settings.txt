@@ -1,0 +1,3 @@
+Fake demo configuration values only.
+password = "demo-password-123"
+api_key = "fake-api-key-789"

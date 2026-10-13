@@ -1,0 +1,4 @@
+These are fake sample values for testing the Secret Scanner.
+password = "fake-password-123"
+AWS_KEY=AKIA1234567890ABCDEF
+token=generic-fake-token-456
